@@ -1,4 +1,4 @@
-package com.easy.array.leetcode;
+package com.leetcode.array.easy;
 
 /**
  * https://leetcode.com/problems/sort-array-by-parity
