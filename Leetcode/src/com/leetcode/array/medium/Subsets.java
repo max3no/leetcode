@@ -3,6 +3,11 @@ package com.leetcode.array.medium;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * https://leetcode.com/problems/subsets/
+ * @author Vai-Rogu
+ *
+ */
 public class Subsets {
 
 	public static void main(String[] args) {
